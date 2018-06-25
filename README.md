@@ -1,1 +1,2 @@
-# ucsb-teachingcs.github.io
+# ucsb-teaching-cs.github.io
+

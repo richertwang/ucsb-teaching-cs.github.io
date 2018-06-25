@@ -1,0 +1,42 @@
+title: "UCSB CS190J"
+course: "CS190J"
+github_url: https://github.com/ucsb-cs190j/ucsb-cs190j.github.io
+gauchospace_url: TBD
+piazza_url: TBD
+
+on_campus: http://proquest.safaribooksonline.com
+off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048/
+
+#kramdown:
+#  parse_block_html: true
+
+exclude: ['vendor', 'setup.sh', 'jekyll.sh']
+
+timezone: America/Los_Angeles
+
+collections:
+
+  topics:
+    output: true
+    permalink: /topics/:path/
+
+  resources:
+    output: true
+    permalink: /resources/:path/
+    
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: topic
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: topic
