@@ -14,3 +14,7 @@ Some of these links come from a [paper by Francisco Estrada and Anya Taflovich](
 * [Teaching Assistants Training Program at University of Western Ontario](https://www.uwo.ca/tsc/graduate student programs/tatp.html)
 * [Instructional Skills Workshop Manual](https://www.iswnetwork.ca/wp-content/uploads/2014/02/ISW-Manual-2006PW.pdf)
 
+This one is mentioned in [an IEEE Educon paper by Danielsiek et al.](https://doi.org/10.1109/EDUCON.2017.7942927)
+
+* [The Torch or the Firehose: A Guide to Section Teaching](https://ocw.mit.edu/resources/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/online-publication/) (TA training manual from MIT).
+
