@@ -10,7 +10,7 @@ Here is a list of some of the top venues for research in CS Education
 
 ## Conferences and Symposiums
 
-* The [SIGCSE Technical Symposium]/topics/cs_ed_research_sigcse) has been held just about annually since 1970.   
+* The [SIGCSE Technical Symposium](/topics/cs_ed_research_sigcse) has been held just about annually since 1970.   
    SIGCSE 2019 will the the fiftieth time this symposium has been held.  It is typically held somewhere in the United States.
 * ITICSE is a symposium typically held outside the United States, usually, though not always, in or near Europe.
 * ICER is a smaller conference devoted to more rigorous CS Ed Research
